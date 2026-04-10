@@ -70,7 +70,7 @@ if (isset($_SESSION["id"])) {
                     <div class="form-top">
                         <div class="form-top-left">
                             <h3>Login to our site</h3>
-                            <p>Enter your username and password to log on:</p>
+                            <p>Enter your username and password to log on, if you want:</p>
                         </div>
                         <div class="form-top-right">
                             <i class="fa fa-lock"></i>
